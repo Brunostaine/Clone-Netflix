@@ -53,3 +53,8 @@
 .botao i {
     margin-right: 8px;
 }
+
+.classificacao {
+    margin: 10px 0;
+    padding-left: 10px;
+}
